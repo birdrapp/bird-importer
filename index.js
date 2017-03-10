@@ -1,31 +1,27 @@
 const async = require('async');
+const colors = require('colors');
 const csv = require('fast-csv');
 const fs = require('fs');
-const logger = require('./logger');
 const request = require('request');
 
 const titleCase = (s) => s.replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
-let total = 0;
-let count = 0;
 
 let queue = async.queue((bird, callback) => {
   request.post({
     url: 'https://api.birdr.co.uk/v1/birds',
     json: bird
   }, (err, res, body) => {
-    count += 1;
-    console.log('Processed %d of %d birds', count, total);
     if (err) return console.error(err);
 
-    if (res.statusCode === 201) {
-      logger.info('%s created successfully.', bird.commonName);
+    if (res.statusCode !== 201) {
+      console.error('✘'.red + ' %s', bird.scientificName);
     } else {
-      logger.error('%s failed to create.', bird.commonName);
+      console.info('✔'.green + ' %s', bird.scientificName);
     }
 
     callback();
   });
-}, 5);
+});
 
 const stream = fs.createReadStream("BirdLife_Checklist_Version_9.csv");
 csv
@@ -37,11 +33,9 @@ csv
       scientificName: data['Scientific name'],
       order: titleCase(data['Order']),
       familyName: data['Family name'],
-      family: data['Family'],
-      alternativeNames: data['Alternative common names'].split(', ').filter(String)
+      family: data['Family']
     };
 
     queue.push(birdParams);
-    total += 1;
   })
-  .on("end", () => console.log('%d birds queued for processing.', total));
+  .on('end', () => console.log('Importing...'))

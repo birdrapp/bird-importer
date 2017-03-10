@@ -4,14 +4,15 @@
   "description": "Imports the BirdLife bird list into the Birdr API",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matthew Williams",
   "license": "MIT",
   "dependencies": {
     "async": "^2.1.5",
+    "colors": "^1.1.2",
     "fast-csv": "^2.4.0",
-    "request": "^2.80.0",
-    "winston": "^2.3.1"
+    "request": "^2.80.0"
   }
 }
