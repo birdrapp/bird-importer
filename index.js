@@ -8,7 +8,7 @@ const titleCase = (s) => s.replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase(
 
 let queue = async.queue((bird, callback) => {
   request.post({
-    url: 'https://api.birdr.co.uk/v1/birds',
+    url: 'https://api.birdr.co.uk/birds',
     json: bird
   }, (err, res, body) => {
     if (err) return console.error(err);
