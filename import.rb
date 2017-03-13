@@ -4,10 +4,13 @@ require 'colorize'
 
 species_id = nil
 species_name = nil
-birdr_url = 'http://localhost:8080/birds'
+birdr_url = 'https://api.birdr.co.uk/birds'
 
 CSV.foreach 'lists/clements.csv', headers: true do |row|
-  species_name = row['English name'] if row['Category'] == 'species'
+  species_name = row['English name'] unless row['English name'].nil?
+
+  # Polytypic groups aren't actually species - so skip them
+  next if row['Category'] == 'group (polytypic)'
 
   bird_params = {
     commonName: species_name,
