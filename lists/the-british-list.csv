@@ -1,0 +1,606 @@
+Verncular name,International name,Scientific name,Category
+Mute Swan,,Cygnus olor,AC2
+Bewick's Swan,Tundra Swan,Cygnus columbianus,AE
+Whooper Swan,,Cygnus cygnus,AE
+Bean Goose,Tundra/Taiga Bean Goose,Anser fabalis,AE
+Pink-footed Goose,,Anser brachyrhynchus,AE
+White-fronted Goose,Greater White-fronted Goose,Anser albifrons,AE
+Lesser White-fronted Goose,,Anser erythropus,AE
+Greylag Goose,,Anser anser,AC2C4E
+Snow Goose,,Anser caerulescens,AC2E
+Canada Goose,,Branta canadensis,AC2E
+Cackling Goose,,Branta hutchinsii,AE
+Barnacle Goose,,Branta leucopsis,AC2E
+Brent Goose,Brant Goose,Branta bernicla,AE
+Red-breasted Goose,,Branta ruficollis,AE
+Egyptian Goose,,Alopochen aegyptiaca,C1E
+Ruddy Shelduck,,Tadorna ferruginea,BDE
+Shelduck,Common Shelduck,Tadorna tadorna,A
+Mandarin Duck,,Aix galericulata,C1E
+Wigeon,Eurasian Wigeon,Anas penelope,AE
+American Wigeon,,Anas americana,AE
+Gadwall,,Anas strepera,AC2
+Baikal Teal,,Anas formosa,AE
+Teal,Eurasian Teal,Anas crecca,A
+Green-winged Teal,,Anas carolinensis,A
+Mallard,,Anas platyrhynchos,AC2C4E
+Black Duck,American Black Duck,Anas rubripes,A
+Pintail,Northern Pintail,Anas acuta,AE
+Garganey,,Anas querquedula,A
+Blue-winged Teal,,Anas discors,AE
+Shoveler,Northern Shoveler,Anas clypeata,A
+Red-crested Pochard,,Netta rufina,AC2E
+Canvasback,,Aythya valisineria,AE
+Pochard,Common Pochard,Aythya ferina,AE
+Redhead,,Aythya americana,AE
+Ring-necked Duck,,Aythya collaris,AE
+Ferruginous Duck,,Aythya nyroca,AE
+Tufted Duck,,Aythya fuligula,A
+Scaup,Greater Scaup,Aythya marila,A
+Lesser Scaup,,Aythya affinis,A
+Eider,Common Eider,Somateria mollissima,A
+King Eider,,Somateria spectabilis,A
+Steller's Eider,,Polysticta stelleri,A
+Harlequin Duck,,Histrionicus histrionicus,A
+Long-tailed Duck,,Clangula hyemalis,A
+Common Scoter,,Melanitta nigra,A
+Black Scoter,,Melanitta americana,A
+Surf Scoter,,Melanitta perspicillata,A
+Velvet Scoter,,Melanitta fusca,A
+White-winged Scoter,,Melanitta deglandi,A
+Bufflehead,,Bucephala albeola,AE
+Barrow's Goldeneye,,Bucephala islandica,AE
+Goldeneye,Common Goldeneye,Bucephala clangula,AE
+Hooded Merganser,,Lophodytes cucullatus,AE
+Smew,,Mergellus albellus,A
+Red-breasted Merganser,,Mergus serrator,A
+Goosander,Common Merganser,Mergus merganser,A
+Ruddy Duck,,Oxyura jamaicensis,C1E
+Quail Common,Quail,Coturnix coturnix,AE
+Red-legged Partridge,,Alectoris rufa,C1E
+Red Grouse,Willow Ptarmigan,Lagopus lagopus,A
+Ptarmigan,Rock Ptarmigan,Lagopus muta,A
+Black Grouse,,Tetrao tetrix,AE
+Capercaillie,Western Capercaillie,Tetrao urogallus,C3
+Grey Partridge,,Perdix perdix,AC2E
+Pheasant,Common Pheasant,Phasianus colchicus,C1E
+Lady Amherst's Pheasant,,Chrysolophus amherstiae,C6E
+Golden Pheasant,,Chrysolophus pictus,C1E
+Red-throated Diver,Red-throated Loon,Gavia stellata,A
+Black-throated Diver,Black-throated Loon,Gavia arctica,A
+Pacific Diver,Pacific Loon,Gavia pacifica,A
+Great Northern Diver,Great Northern Loon,Gavia immer,A
+White-billed Diver,Yellow-billed Loon,Gavia adamsii,A
+Black-browed Albatross,,Thalassarche melanophris,A
+Yellow-nosed Albatross,Atlantic Yellow-nosed Albatross,Thalassarche chlororhynchos,A
+Fulmar,Northern Fulmar,Fulmarus glacialis,A
+Fea's Petrel,Fea's Petrel or Desertas Petrel,Pterodroma feae,A
+Capped Petrel,Black-capped Petrel,Pterodroma hasitata,A
+Cory's Shearwater,,Calonectris borealis,A
+Scopoli's Shearwater,,Calonectris diomedea,A
+Great Shearwater,,Puffinus gravis,A
+Sooty Shearwater,,Puffinus griseus,A
+Manx Shearwater,,Puffinus puffinus,A
+Yelkouan Shearwater,,Puffinus yelkouan,A
+Balearic Shearwater,,Puffinus mauretanicus,A
+Macaronesian Shearwater,Barolo Shearwater,Puffinus baroli,A
+Wilson's Petrel Wilson's,Storm Petrel,Oceanites oceanicus,A
+Frigate Petrel,White-faced Storm Petrel,Pelagodroma marina,B
+Storm Petrel,European Storm Petrel,Hydrobates pelagicus,A
+Leach's Petrel,Leach's Storm Petrel,Oceanodroma leucorhoa,A
+Swinhoe's Petrel,Swinhoe's Storm Petrel,Oceanodroma monorhis,A
+Red-billed Tropicbird,,Phaethon aethereus,A
+Gannet Northern Gannet,,Morus bassanus,A
+Cormorant,Great Cormorant,Phalacrocorax carbo,A
+Double-crested Cormorant,,Phalacrocorax auritus,A
+Shag,European Shag,Phalacrocorax aristotelis,A
+Ascension Frigatebird,,Fregata aquila,A
+Magnificent Frigatebird,,Fregata magnificens,A
+Bittern,Eurasian Bittern,Botaurus stellaris,A
+American Bittern,,Botaurus lentiginosus,A
+Little Bittern,,Ixobrychus minutus,A
+Night-heron,Black-crowned Night Heron,Nycticorax nycticorax,AE
+Green Heron,,Butorides virescens,A
+Squacco Heron,,Ardeola ralloides,A
+Chinese Pond Heron,,Ardeola bacchus,A
+Cattle Egret,Western Cattle Egret,Bubulcus ibis,AE
+Snowy Egret,,Egretta thula,A
+Little Egret,,Egretta garzetta,A
+Great White Egret,Great Egret,Ardea alba,A
+Grey Heron,,Ardea cinerea,A
+Great Blue Heron,,Ardea herodias,A
+Purple Heron,,Ardea purpurea,A
+Black Stork,,Ciconia nigra,AE
+White Stork,,Ciconia ciconia,AE
+Glossy Ibis,,Plegadis falcinellus,AE
+Spoonbill,Eurasian Spoonbill,Platalea leucorodia,AE
+Pied-billed Grebe,,Podilymbus podiceps,A
+Little Grebe,,Tachybaptus ruficollis,A
+Great Crested Grebe,,Podiceps cristatus,A
+Red-necked Grebe,,Podiceps grisegena,A
+Slavonian Grebe,Horned Grebe,Podiceps auritus,A
+Black-necked Grebe,,Podiceps nigricollis,A
+Honey-buzzard,European Honey Buzzard,Pernis apivorus,A
+Black Kite,,Milvus migrans,AE
+Red Kite,,Milvus milvus,AC3E
+White-tailed Eagle,,Haliaeetus albicilla,AC3E
+Egyptian Vulture,,Neophron percnopterus,BDE
+Short-toed Eagle,Short-toed Snake Eagle,Circaetus gallicus,A
+Marsh Harrier,Western Marsh Harrier,Circus aeruginosus,A
+Hen Harrier,,Circus cyaneus,A
+Northern Harrier,,Circus hudsonius,A
+Pallid Harrier,,Circus macrourus,A
+Montagu's Harrier,,Circus pygargus,A
+Goshawk,Northern Goshawk,Accipiter gentilis,AC3E
+Sparrowhawk,Eurasian Sparrowhawk,Accipiter nisus,A
+Buzzard,Common Buzzard,Buteo buteo,AE
+Rough-legged Buzzard,,Buteo lagopus,AE
+Spotted Eagle,Greater Spotted Eagle,Aquila clanga,B
+Golden Eagle,,Aquila chrysaetos,AE
+Osprey,Western Osprey,Pandion haliaetus,AE
+Water Rail,,Rallus aquaticus,A
+Spotted Crake,,Porzana porzana,A
+Sora Rail,Sora,Porzana carolina,A
+Little Crake,,Zapornia parva,A
+Baillon's Crake,,Zapornia pusilla,A
+Corncrake,Corn Crake,Crex crex,AE
+Moorhen,Common Moorhen,Gallinula chloropus,A
+Allen's Gallinule,,Porphyrio alleni,A
+Purple Gallinule,,Porphyrio martinicus,A
+Coot,Eurasian Coot,Fulica atra,A
+American Coot,,Fulica americana,A
+Crane,Common Crane,Grus grus,A
+Sandhill Crane,,Grus canadensis,A
+Little Bustard,,Tetrax tetrax,A
+Macqueen's Bustard,,Chlamydotis macqueenii,A
+Great Bustard,,Otis tarda,AE
+Stone-curlew,Eurasian Stone-curlew,Burhinus oedicnemus,A
+Black-winged Stilt,,Himantopus himantopus,A
+Avocet,Pied Avocet,Recurvirostra avosetta,A
+Oystercatcher,Eurasian Oystercatcher,Haematopus ostralegus,A
+Grey Plover,,Pluvialis squatarola,A
+Golden Plover,European Golden Plover,Pluvialis apricaria,A
+American Golden Plover,,Pluvialis dominica,A
+Pacific Golden Plover,,Pluvialis fulva,A
+Dotterel,Eurasian Dotterel,Charadrius morinellus,A
+Killdeer,,Charadrius vociferus,A
+Semipalmated Plover,,Charadrius semipalmatus,A
+Ringed Plover,Common Ringed Plover,Charadrius hiaticula,A
+Little Ringed Plover,,Charadrius dubius,A
+Sociable Plover,Sociable Lapwing,Vanellus gregarius,A
+White-tailed Plover,White-tailed Lapwing,Vanellus leucurus,A
+Lapwing,Northern Lapwing,Vanellus vanellus,A
+Caspian Plover,,Anarhynchus asiaticus,A
+Greater Sand Plover,,Anarhynchus leschenaultii,A
+Lesser Sand Plover,,Anarhynchus mongolus,A
+Kentish Plover,,Anarhynchus alexandrinus,A
+Upland Sandpiper,,Bartramia longicauda,A
+Little Whimbrel,Little Curlew,Numenius minutus,A
+Eskimo Curlew,,Numenius borealis,B
+Hudsonian Whimbrel,Whimbrel,Numenius hudsonicus,A
+Whimbrel,,Numenius phaeopus,A
+Curlew,Eurasian Curlew,Numenius arquata,A
+Black-tailed Godwit,,Limosa limosa,A
+Hudsonian Godwit,,Limosa haemastica,A
+Bar-tailed Godwit,,Limosa lapponica,A
+Turnstone,Ruddy Turnstone,Arenaria interpres,A
+Great Knot,,Calidris tenuirostris,A
+Knot,Red Knot,Calidris canutus,A
+Ruff,,Calidris pugnax,A
+Sharp-tailed Sandpiper,,Calidris acuminata,A
+Broad-billed Sandpiper,,Calidris falcinellus,A
+Curlew Sandpiper,,Calidris ferruginea,A
+Stilt Sandpiper,,Calidris himantopus,A
+Red-necked Stint,,Calidris ruficollis,A
+Long-toed Stint,,Calidris subminuta,A
+Temminck's Stint,,Calidris temminckii,A
+Sanderling,,Calidris alba,A
+Dunlin,,Calidris alpina,A
+Purple Sandpiper,,Calidris maritima,A
+Baird's Sandpiper,,Calidris bairdii,A
+Little Stint,,Calidris minuta,A
+White-rumped Sandpiper,,Calidris fuscicollis,A
+Least Sandpiper,,Calidris minutilla,A
+Buff-breasted Sandpiper,,Calidris subruficollis,A
+Pectoral Sandpiper,,Calidris melanotos,A
+Western Sandpiper,,Calidris mauri,A
+Semipalmated Sandpiper,,Calidris pusilla,A
+Wilson's Phalarope,,Phalaropus tricolor,A
+Red-necked Phalarope,,Phalaropus lobatus,A
+Grey Phalarope,Red Phalarope,Phalaropus fulicarius,A
+Terek Sandpiper,,Xenus cinereus,A
+Common Sandpiper,,Actitis hypoleucos,A
+Spotted Sandpiper,,Actitis macularius,A
+Green Sandpiper,,Tringa ochropus,A
+Solitary Sandpiper,,Tringa solitaria,A
+Grey-tailed Tattler,,Tringa brevipes,A
+Spotted Redshank,,Tringa erythropus,A
+Greater Yellowlegs,,Tringa melanoleuca,A
+Greenshank,Common Greenshank,Tringa nebularia,A
+Lesser Yellowlegs,,Tringa flavipes,A
+Marsh Sandpiper,,Tringa stagnatilis,A
+Wood Sandpiper,,Tringa glareola,A
+Redshank,Common Redshank,Tringa totanus,A
+Jack Snipe,,Lymnocryptes minimus,A
+Short-billed Dowitcher,,Limnodromus griseus,A
+Long-billed Dowitcher,,Limnodromus scolopaceus,A
+Woodcock,Eurasian Woodcock,Scolopax rusticola,A
+Snipe,Common Snipe,Gallinago gallinago,A
+Wilson's Snipe,,Gallinago delicata,A
+Great Snipe,,Gallinago media,A
+Collared Pratincole,,Glareola pratincola,A
+Oriental Pratincole,,Glareola maldivarum,A
+Black-winged Pratincole,,Glareola nordmanni,A
+Cream-coloured Courser,,Cursorius cursor,A
+Pomarine Skua,,Stercorarius pomarinus,A
+Arctic Skua,Parasitic Jaeger,Stercorarius parasiticus,A
+Long-tailed Skua,Long-tailed Jaeger,Stercorarius longicaudus,A
+Great Skua,,Stercorarius skua,A
+Tufted Puffin,,Fratercula cirrhata,A
+Puffin,Atlantic Puffin,Fratercula arctica,A
+Long-billed Murrelet,,Brachyramphus perdix,A
+Black Guillemot,,Cepphus grylle,A
+Ancient Murrelet,,Synthliboramphus antiquus,A
+Razorbill,,Alca torda,A
+Great Auk,,Pinguinus impennis,B
+Little Auk,,Alle alle,A
+Guillemot,Common Murre,Uria aalge,A
+Brünnich's Guillemot,Thick-billed Murre,Uria lomvia,A
+Aleutian Tern,,Onychoprion aleuticus,A
+Sooty Tern,,Onychoprion fuscatus,A
+Bridled Tern,,Onychoprion anaethetus,A
+Little Tern,Little Tern and Least Tern,Sternula albifrons,A
+Gull-billed Tern,,Gelochelidon nilotica,A
+Caspian Tern,,Hydroprogne caspia,A
+Whiskered Tern,,Chlidonias hybrida,A
+Black Tern,,Chlidonias niger,A
+White-winged Black Tern,White-winged Tern,Chlidonias leucopterus,A
+Cabot's Tern,,Sterna acuflavida,A
+Sandwich Tern,,Sterna sandvicensis,A
+Royal Tern,,Sterna maxima,A
+Lesser Crested Tern,,Sterna bengalensis,A
+Forster's Tern,,Sterna forsteri,A
+Common Tern,,Sterna hirundo,A
+Roseate Tern,,Sterna dougallii,A
+Arctic Tern,,Sterna paradisaea,A
+Ivory Gull,,Pagophila eburnea,A
+Sabine's Gull,,Xema sabini,A
+Kittiwake,Black-legged Kittiwake,Rissa tridactyla,A
+Slender-billed Gull,,Chroicocephalus genei,A
+Bonaparte's Gull,,Chroicocephalus philadelphia,A
+Black-headed Gull,,Chroicocephalus ridibundus,A
+Little Gull,,Hydrocoloeus minutus,A
+Ross's Gull,,Rhodostethia rosea,A
+Laughing Gull,,Larus atricilla,A
+Franklin's Gull,,Larus pipixcan,A
+Mediterranean Gull,,Larus melanocephalus,A
+Audouin's Gull,,Larus audouinii,A
+Great Black-headed Gull,Pallas's Gull,Larus ichthyaetus,B
+Common Gull,Mew Gull,Larus canus,A
+Ring-billed Gull,,Larus delawarensis,A
+Lesser Black-backed Gull,,Larus fuscus,A
+Herring Gull,European Herring Gull,Larus argentatus,A
+Yellow-legged Gull,,Larus michahellis,A
+Caspian Gull,,Larus cachinnans,A
+American Herring Gull,American Herring Gull,Larus smithsonianus,A
+Iceland Gull,Iceland Gull and Thayer's Gull,Larus glaucoides,A
+Slaty-backed Gull,,Larus schistisagus,A
+Glaucous-winged Gull,,Larus glaucescens,A
+Glaucous Gull,,Larus hyperboreus,A
+Great Black-backed Gull,,Larus marinus,A
+Pallas's Sandgrouse,,Syrrhaptes paradoxus,A
+Rock Dove / Feral Pigeon,,Columba livia,AC4E
+Stock Dove,,Columba oenas,A
+Woodpigeon,Common Wood Pigeon,Columba palumbus,A
+Collared Dove,Eurasian Collared Dove,Streptopelia decaocto,A
+Turtle Dove,European Turtle Dove,Streptopelia turtur,A
+Rufous Turtle Dove,Oriental Turtle Dove,Streptopelia orientalis,A
+Mourning Dove,,Zenaida macroura,A
+Great Spotted Cuckoo,,Clamator glandarius,A
+Cuckoo,Common Cuckoo,Cuculus canorus,A
+Black-billed Cuckoo,,Coccyzus erythropthalmus,A
+Yellow-billed Cuckoo,,Coccyzus americanus,A
+Barn Owl,Western Barn Owl,Tyto alba,AE
+Scops Owl,Eurasian Scops Owl,Otus scops,A
+Snowy Owl,,Bubo scandiacus,A
+Hawk Owl,Northern Hawk-Owl,Surnia ulula,A
+Little Owl,,Athene noctua,C1
+Tawny Owl,,Strix aluco,A
+Long-eared Owl,,Asio otus,A
+Short-eared Owl,,Asio flammeus,A
+Tengmalm's Owl,Boreal Owl,Aegolius funereus,A
+Nightjar,European Nightjar,Caprimulgus europaeus,A
+Red-necked Nightjar,,Caprimulgus ruficollis,B
+Egyptian Nightjar,,Caprimulgus aegyptius,A
+Common Nighthawk,,Chordeiles minor,A
+Chimney Swift,,Chaetura pelagica,A
+Needle-tailed Swift,White-throated Needletail,Hirundapus caudacutus,A
+Swift,Common Swift,Apus apus,A
+Pallid Swift,,Apus pallidus,A
+Pacific Swift,,Apus pacificus,A
+Alpine Swift,,Apus melba,A
+Little Swift,,Apus affinis,A
+Hoopoe,Eurasian Hoopoe,Upupa epops,A
+Blue-cheeked Bee-eater,,Merops persicus,A
+Bee-eater,European Bee-eater,Merops apiaster,A
+Roller,European Roller,Coracias garrulus,A
+Kingfisher,Common Kingfisher,Alcedo atthis A
+Belted Kingfisher,,Megaceryle alcyon,A
+Wryneck,Eurasian Wryneck,Jynx torquilla,A
+Green Woodpecker,European Green Woodpecker,Picus viridis,A
+Yellow-bellied Sapsucker,,Sphyrapicus varius,A
+Great Spotted Woodpecker,,Dendrocopos major,A
+Lesser Spotted Woodpecker,,Dryobates minor,A
+Lesser Kestrel,,Falco naumanni,A
+Kestrel,Common Kestrel,Falco tinnunculus,A
+American Kestrel,,Falco sparverius,AE
+Red-footed Falcon,,Falco vespertinus,A
+Amur Falcon,,Falco amurensis,A
+Merlin,,Falco columbarius,A
+Hobby,Eurasian Hobby,Falco subbuteo,A
+Eleonora's Falcon,,Falco eleonorae,A
+Gyr Falcon,Gyrfalcon,Falco rusticolus,AE
+Peregrine,Peregrine Falcon,Falco peregrinus,AE
+Ring-necked Parakeet,Rose-ringed Parakeet,Psittacula krameri,C1E
+Eastern Phoebe,,Sayornis phoebe,A
+Acadian Flycatcher,,Empidonax virescens,A
+Alder Flycatcher,,Empidonax alnorum,A
+Yellow-throated Vireo,,Vireo flavifrons,A
+Philadelphia Vireo,,Vireo philadelphicus,A
+Red-eyed Vireo,,Vireo olivaceus,A
+Golden Oriole,Eurasian Golden Oriole,Oriolus oriolus,A
+Brown Shrike,,Lanius cristatus,A
+Isabelline Shrike,Isabelline Shrike & Red-tailed Shrike,Lanius isabellinus,A
+Red-backed Shrike,,Lanius collurio,A
+Long-tailed Shrike,,Lanius schach,A
+Lesser Grey Shrike,,Lanius minor,A
+Great Grey Shrike,,Lanius excubitor,A
+Southern Grey Shrike,,Lanius meridionalis,A
+Woodchat Shrike,,Lanius senator,A
+Masked Shrike,,Lanius nubicus,A
+Chough,Red-billed Chough,Pyrrhocorax pyrrhocorax,AE
+Magpie,Eurasian Magpie,Pica pica,A
+Jay,Eurasian Jay,Garrulus glandarius,A
+Nutcracker,Spotted Nutcracker,Nucifraga caryocatactes,A
+Jackdaw,Western Jackdaw,Corvus monedula,A
+Rook,,Corvus frugilegus,A
+Carrion Crow,,Corvus corone,A
+Hooded Crow,,Corvus cornix,A
+Raven,Northern Raven,Corvus corax,A
+Goldcrest,,Regulus regulus,A
+Firecrest,Common Firecrest,Regulus ignicapilla,A
+Penduline Tit,Eurasian Penduline Tit,Remiz pendulinus,A
+Blue Tit,Eurasian Blue Tit,Cyanistes caeruleus,A
+Great Tit,,Parus major,A
+Crested Tit,European Crested Tit,Lophophanes cristatus,A
+Coal Tit,,Periparus ater,A
+Willow Tit,,Poecile montana,A
+Marsh Tit,,Poecile palustris,A
+Bearded Tit,Bearded Reedling,Panurus biarmicus,A
+Woodlark,,Lullula arborea,A
+White-winged Lark,,Alauda leucoptera,A
+Skylark,Eurasian Skylark,Alauda arvensis,A
+Crested Lark,,Galerida cristata,AE
+Shore Lark,Horned Lark,Eremophila alpestris,A
+Short-toed Lark,Greater Short-toed Lark,Calandrella brachydactyla,A
+Bimaculated Lark,,Melanocorypha bimaculata,A
+Calandra Lark,,Melanocorypha calandra,A
+Black Lark,,Melanocorypha yeltoniensis,A
+Lesser Short-toed Lark,,Alaudala rufescens,A
+Sand Martin,,Riparia riparia,A
+Tree Swallow,,Tachycineta bicolor,A
+Purple Martin,,Progne subis,A
+Crag Martin,Eurasian Crag Martin,Ptyonoprogne rupestris,A
+Swallow,Barn Swallow,Hirundo rustica,AE
+House Martin,Common House Martin,Delichon urbicum,A
+Red-rumped Swallow,,Cecropis daurica,A
+Cliff Swallow,American Cliff Swallow,Petrochelidon pyrrhonota,A
+Cetti's Warbler,,Cettia cetti,A
+Long-tailed Tit,,Aegithalos caudatus,A
+Eastern Crowned Warbler,,Phylloscopus coronatus,A
+Green Warbler,,Phylloscopus nitidus,A
+Greenish Warbler,Greenish/Two-barred Warbler,Phylloscopus trochiloides,A
+Arctic Warbler,,Phylloscopus borealis,A
+Pallas's Warbler,Pallas's Leaf Warbler,Phylloscopus proregulus,A
+Yellow-browed Warbler,,Phylloscopus inornatus,A
+Hume's Warbler,Hume's Leaf Warbler,Phylloscopus humei,A
+Radde's Warbler,,Phylloscopus schwarzi,A
+Dusky Warbler,,Phylloscopus fuscatus,A
+Western Bonelli's Warbler,,Phylloscopus bonelli,A
+Eastern Bonelli's Warbler,,Phylloscopus orientalis,A
+Wood Warbler,,Phylloscopus sibilatrix,A
+Chiffchaff,Common Chiffchaff,Phylloscopus collybita,A
+Iberian Chiffchaff,,Phylloscopus ibericus,A
+Willow Warbler,,Phylloscopus trochilus,A
+Blackcap,Eurasian Blackcap,Sylvia atricapilla,A
+Garden Warbler,,Sylvia borin,A
+Desert Warbler,Asian Desert Warbler,Sylvia nana,A
+Barred Warbler,,Sylvia nisoria,A
+Lesser Whitethroat,,Sylvia curruca,A
+Western Orphean Warbler,,Sylvia hortensis,A
+Rüppell's Warbler,,Sylvia rueppelli,A
+Sardinian Warbler,,Sylvia melanocephala,A
+Moltoni's Subalpine Warbler,Moltoni's Warbler,Sylvia subalpina,A
+Subalpine Warbler,Eastern & Western Subalpine Warblers,Sylvia cantillans,A
+Whitethroat,Common Whitethroat,Sylvia communis,A
+Spectacled Warbler,,Sylvia conspicillata,A
+Marmora's Warbler,,Sylvia sarda,A
+Dartford Warbler,,Sylvia undata,A
+Pallas's Grasshopper Warbler,,Locustella certhiola,A
+Lanceolated Warbler,,Locustella lanceolata,A
+Grasshopper Warbler,Common Grasshopper Warbler,Locustella naevia,A
+River Warbler,,Locustella fluviatilis,A
+Savi's Warbler,,Locustella luscinioides,A
+Thick-billed Warbler,,Iduna aedon,A
+Booted Warbler,,Iduna caligata,A
+Sykes's Warbler,,Iduna rama,A
+Eastern Olivaceous Warbler,,Iduna pallida,A
+Olive-tree Warbler,,Hippolais olivetorum,A
+Icterine Warbler,,Hippolais icterina,A
+Melodious Warbler,,Hippolais polyglotta,A
+Aquatic Warbler,,Acrocephalus paludicola,A
+Sedge Warbler,,Acrocephalus schoenobaenus,A
+Paddyfield Warbler,,Acrocephalus agricola,A
+Blyth's Reed Warbler,,Acrocephalus dumetorum,A
+Marsh Warbler,,Acrocephalus palustris,A
+Reed Warbler,Eurasian Reed Warbler,Acrocephalus scirpaceus,A
+Great Reed Warbler,,Acrocephalus arundinaceus,A
+Fan-tailed Warbler,Zitting Cisticola,Cisticola juncidis,A
+Cedar Waxwing,,Bombycilla cedrorum,A
+Waxwing,Bohemian Waxwing,Bombycilla garrulus,AE
+Wallcreeper,,Tichodroma muraria,A
+Red-breasted Nuthatch,,Sitta canadensis,A
+Nuthatch,Eurasian Nuthatch,Sitta europaea,A
+Treecreeper,Eurasian Treecreeper,Certhia familiaris,A
+Short-toed Treecreeper,,Certhia brachydactyla,A
+Wren,Eurasian Wren,Troglodytes troglodytes,A
+Northern Mockingbird,,Mimus polyglottos,AE
+Brown Thrasher,,Toxostoma rufum,A
+Grey Catbird,,Dumetella carolinensis,A
+Starling,Common Starling,Sturnus vulgaris,A
+Rose-coloured Starling,Rosy Starling,Pastor roseus,A
+Dipper,White-throated Dipper,Cinclus cinclus,A
+White's Thrush,Scaly Thrush,Zoothera dauma,A
+Varied Thrush,,Ixoreus naevius,A
+Wood Thrush,,Hylocichla mustelina,A
+Hermit Thrush,,Catharus guttatus,A
+Swainson's Thrush,,Catharus ustulatus,A
+Grey-cheeked Thrush,,Catharus minimus,A
+Veery,,Catharus fuscescens,A
+Siberian Thrush,,Geokichla sibirica,AE
+Ring Ouzel,,Turdus torquatus,A
+Blackbird,Common Blackbird,Turdus merula,A
+Eyebrowed Thrush,,Turdus obscurus,A
+Dusky Thrush,,Turdus eunomus,A
+Naumann's Thrush,,Turdus naumanni,A
+Black-throated Thrush,,Turdus atrogularis,A
+Red-throated Thrush,,Turdus ruficollis,A
+Fieldfare,,Turdus pilaris,A
+Song Thrush,,Turdus philomelos,A
+Redwing,,Turdus iliacus,A
+Mistle Thrush,,Turdus viscivorus,A
+American Robin,,Turdus migratorius,AE
+Rufous Bush Chat,Rufous-tailed Scrub Robin,Cercotrichas galactotes,A
+Brown Flycatcher,Asian Brown Flycatcher,Muscicapa dauurica,A
+Spotted Flycatcher,,Muscicapa striata,A
+Robin,European Robin,Erithacus rubecula,A
+Siberian Blue Robin,,Larvivora cyane,A
+Rufous-tailed Robin,,Larvivora sibilans,A
+White-throated Robin,,Irania gutturalis,A
+Thrush Nightingale,,Luscinia luscinia,A
+Nightingale,Common Nightingale,Luscinia megarhynchos,A
+Bluethroat,,Luscinia svecica,A
+Siberian Rubythroat,,Calliope calliope,A
+Red-flanked Bluetail,,Tarsiger cyanurus,AE
+Red-breasted Flycatcher,,Ficedula parva,A
+Taiga Flycatcher,,Ficedula albicilla,A
+Collared Flycatcher,,Ficedula albicollis,A
+Pied Flycatcher,European Pied Flycatcher,Ficedula hypoleuca,A
+Black Redstart,,Phoenicurus ochruros,A
+Redstart,Common Redstart,Phoenicurus phoenicurus,A
+Moussier's Redstart,,Phoenicurus moussieri,A
+Rock Thrush,Common Rock Thrush,Monticola saxatilis,A
+Blue Rock Thrush,,Monticola solitarius,AE
+Whinchat,,Saxicola rubetra,A
+Siberian Stonechat,Siberian Stonechat & Stejneger's Stonechat,Saxicola maurus,A
+Stonechat,European Stonechat,Saxicola rubicola,A
+Wheatear,Northern Wheatear,Oenanthe oenanthe,A
+Isabelline Wheatear,,Oenanthe isabellina,A
+Desert Wheatear,,Oenanthe deserti,A
+Black-eared Wheatear,,Oenanthe hispanica,A
+Pied Wheatear,,Oenanthe pleschanka,A
+White-crowned Black Wheatear,White-crowned Wheatear,Oenanthe leucopyga,A
+Alpine Accentor,,Prunella collaris,A
+Dunnock,,Prunella modularis,A
+House Sparrow,,Passer domesticus,A
+Spanish Sparrow,,Passer hispaniolensis,A
+Tree Sparrow,Eurasian Tree Sparrow,Passer montanus,A
+Rock Sparrow,,Petronia petronia,A
+Yellow Wagtail,Western and Eastern Yellow Wagtail,Motacilla flava,A
+Citrine Wagtail,,Motacilla citreola,A
+Grey Wagtail,,Motacilla cinerea,A
+Pied Wagtail,White Wagtail,Motacilla alba,A
+Richard's Pipit,,Anthus richardi,A
+Blyth's Pipit,,Anthus godlewskii,A
+Tawny Pipit,,Anthus campestris,A
+Olive-backed Pipit,,Anthus hodgsoni,A
+Tree Pipit,,Anthus trivialis,A
+Pechora Pipit,,Anthus gustavi,A
+Meadow Pipit,,Anthus pratensis,A
+Red-throated Pipit,,Anthus cervinus,A
+Rock Pipit,Eurasian Rock Pipit,Anthus petrosus,A
+Water Pipit,,Anthus spinoletta,A
+Buff-bellied Pipit,,Anthus rubescens,A
+Brambling,,Fringilla montifringilla,A
+Chaffinch,Common Chaffinch,Fringilla coelebs,AE
+Evening Grosbeak,,Hesperiphona vespertina,A
+Hawfinch,,Coccothraustes coccothraustes,A
+Common Rosefinch,,Erythrina erythrina,A
+Pine Grosbeak,,Pinicola enucleator,AE
+Bullfinch,Eurasian Bullfinch,Pyrrhula pyrrhula,A
+Trumpeter Finch,,Bucanetes githagineus,AE
+Greenfinch,European Greenfinch,Chloris chloris,AE
+Linnet,Common Linnet,Linaria cannabina,A
+Twite,,Linaria flavirostris,A
+Lesser Redpoll,Common Redpoll,Acanthis cabaret,A
+Common Redpoll,,Acanthis flammea,A
+Arctic Redpoll,,Acanthis hornemanni,A
+Two-barred Crossbill,,Loxia leucoptera,A
+Crossbill,Red Crossbill,Loxia curvirostra,A
+Scottish Crossbill,,Loxia scotica,A
+Parrot Crossbill,,Loxia pytyopsittacus,A
+Goldfinch,European Goldfinch,Carduelis carduelis,A
+Citril Finch,,Carduelis citrinella,A
+Serin,European Serin,Serinus serinus,A
+Siskin,Eurasian Siskin,Spinus spinus,A
+Snow Bunting,,Plectrophenax nivalis,A
+Lapland,Bunting Lapland Longspur,Calcarius lapponicus,A
+Summer Tanager,,Piranga rubra,A
+Scarlet Tanager,,Piranga olivacea,A
+Rose-breasted Grosbeak,,Pheucticus ludovicianus,A
+Indigo Bunting,,Passerina cyanea,AE
+Eastern Towhee,,Pipilo erythrophthalmus,A
+Lark Sparrow,,Chondestes grammacus,A
+Savannah Sparrow,,Passerculus sandwichensis,A
+Song Sparrow,,Melospiza melodia,AE
+White-crowned Sparrow,,Zonotrichia leucophrys,AE
+White-throated Sparrow,,Zonotrichia albicollis,AE
+Dark-eyed Junco,,Junco hyemalis,AE
+Black-headed Bunting,,Emberiza melanocephala,AE
+Corn Bunting,,Emberiza calandra,A
+Chestnut-eared Bunting,,Emberiza fucata,A
+Rock Bunting,,Emberiza cia,A
+Cretzschmar's Bunting,,Emberiza caesia,A
+Ortolan Bunting,,Emberiza hortulana,AE
+Cirl Bunting,,Emberiza cirlus,A
+Yellowhammer,,Emberiza citrinella,A
+Pine Bunting,,Emberiza leucocephalos,A
+Pallas's Reed Bunting,,Emberiza pallasi,A
+Reed Bunting,Common Reed Bunting,Emberiza schoeniclus,A
+Yellow-breasted Bunting,,Emberiza aureola,A
+Chestnut Bunting,,Emberiza rutila,A
+Yellow-browed Bunting,,Emberiza chrysophrys,A
+Little Bunting,,Emberiza pusilla,A
+Rustic Bunting,,Emberiza rustica,A
+Black-faced Bunting,,Emberiza spodocephala,AE
+Bobolink,,Dolichonyx oryzivorus,A
+Brown-headed Cowbird,,Molothrus ater,A
+Baltimore Oriole,,Icterus galbula,AE
+Ovenbird,,Seiurus aurocapilla,A
+Northern Waterthrush,,Parkesia noveboracensis,A
+Golden-winged Warbler,,Vermivora chrysoptera,A
+Black-and-white Warbler,,Mniotilta varia,A
+Tennessee Warbler,,Oreothlypis peregrina,A
+Common Yellowthroat,,Geothlypis trichas,A
+Hooded Warbler,,Setophaga citrina,A
+American Redstart,,Setophaga ruticilla,AE
+Cape May Warbler,,Setophaga tigrina,A
+Northern Parula,,Setophaga americana,AE
+Magnolia Warbler,,Setophaga magnolia,AE
+Bay-breasted Warbler,,Setophaga castanea,A
+Blackburnian Warbler,,Setophaga fusca,A
+Yellow Warbler,American Yellow Warbler,Setophaga petechia,A
+Chestnut-sided Warbler,,Setophaga pensylvanica,A
+Blackpoll Warbler,,Setophaga striata,AE
+Yellow-rumped Warbler,Myrtle Warbler,Setophaga coronata,A
+Wilson's Warbler,,Cardellina pusilla,A
