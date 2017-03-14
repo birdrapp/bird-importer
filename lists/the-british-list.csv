@@ -1,4 +1,4 @@
-Verncular name,International name,Scientific name,Category,Sort
+Vernacular name,International name,Scientific name,Category,Sort
 Mute Swan,,Cygnus olor,AC2,1
 Bewick's Swan,Tundra Swan,Cygnus columbianus,AE,2
 Whooper Swan,,Cygnus cygnus,AE,3
@@ -7,7 +7,7 @@ Pink-footed Goose,,Anser brachyrhynchus,AE,5
 White-fronted Goose,Greater White-fronted Goose,Anser albifrons,AE,6
 Lesser White-fronted Goose,,Anser erythropus,AE,7
 Greylag Goose,,Anser anser,AC2C4E,8
-Snow Goose,,Anser caerulescens,AC2E,9
+Snow Goose,,Chen caerulescens,AC2E,9
 Canada Goose,,Branta canadensis,AC2E,10
 Cackling Goose,,Branta hutchinsii,AE,11
 Barnacle Goose,,Branta leucopsis,AC2E,12
@@ -22,7 +22,7 @@ American Wigeon,,Anas americana,AE,20
 Gadwall,,Anas strepera,AC2,21
 Baikal Teal,,Anas formosa,AE,22
 Teal,Eurasian Teal,Anas crecca,A,23
-Green-winged Teal,,Anas carolinensis,A,24
+Green-winged Teal,,Anas crecca carolinensis,A,24
 Mallard,,Anas platyrhynchos,AC2C4E,25
 Black Duck,American Black Duck,Anas rubripes,A,26
 Pintail,Northern Pintail,Anas acuta,AE,27
@@ -47,7 +47,7 @@ Common Scoter,,Melanitta nigra,A,45
 Black Scoter,,Melanitta americana,A,46
 Surf Scoter,,Melanitta perspicillata,A,47
 Velvet Scoter,,Melanitta fusca,A,48
-White-winged Scoter,,Melanitta deglandi,A,49
+White-winged Scoter,,Melanitta fusca deglandi,A,49
 Bufflehead,,Bucephala albeola,AE,50
 Barrow's Goldeneye,,Bucephala islandica,AE,51
 Goldeneye,Common Goldeneye,Bucephala clangula,AE,52
@@ -69,17 +69,17 @@ Golden Pheasant,,Chrysolophus pictus,C1E,67
 Red-throated Diver,Red-throated Loon,Gavia stellata,A,68
 Black-throated Diver,Black-throated Loon,Gavia arctica,A,69
 Pacific Diver,Pacific Loon,Gavia pacifica,A,70
-Great Northern Diver≤ Great Northern Loon,Gavia immer,A,,71
+Great Northern Diver,Great Northern Loon,Gavia immer,A,71
 White-billed Diver,Yellow-billed Loon,Gavia adamsii,A,72
 Black-browed Albatross,,Thalassarche melanophris,A,73
 Yellow-nosed Albatross,Atlantic Yellow-nosed Albatross,Thalassarche chlororhynchos,A,74
 Fulmar,Northern Fulmar,Fulmarus glacialis,A,75
 Fea's Petrel,Fea's Petrel or Desertas Petrel,Pterodroma feae,A,76
 Capped Petrel,Black-capped Petrel,Pterodroma hasitata,A,77
-Cory's Shearwater,,Calonectris borealis,A,78
+Cory's Shearwater,,Calonectris diomedea borealis,A,78
 Scopoli's Shearwater,,Calonectris diomedea,A,79
-Great Shearwater,,Puffinus gravis,A,80
-Sooty Shearwater,,Puffinus griseus,A,81
+Great Shearwater,,Ardenna gravis,A,80
+Sooty Shearwater,,Ardenna grisea,A,81
 Manx Shearwater,,Puffinus puffinus,A,82
 Yelkouan Shearwater,,Puffinus yelkouan,A,83
 Balearic Shearwater,,Puffinus mauretanicus,A,84
@@ -128,14 +128,14 @@ Egyptian Vulture,,Neophron percnopterus,BDE,126
 Short-toed Eagle,Short-toed Snake Eagle,Circaetus gallicus,A,127
 Marsh Harrier,Western Marsh Harrier,Circus aeruginosus,A,128
 Hen Harrier,,Circus cyaneus,A,129
-Northern Harrier,,Circus hudsonius,A,130
+Northern Harrier,,Circus cyaneus hudsonius,A,130
 Pallid Harrier,,Circus macrourus,A,131
 Montagu's Harrier,,Circus pygargus,A,132
 Goshawk,Northern Goshawk,Accipiter gentilis,AC3E,133
 Sparrowhawk,Eurasian Sparrowhawk,Accipiter nisus,A,134
 Buzzard,Common Buzzard,Buteo buteo,AE,135
 Rough-legged Buzzard,,Buteo lagopus,AE,136
-Spotted Eagle,Greater Spotted Eagle,Aquila clanga,B,137
+Spotted Eagle,Greater Spotted Eagle,Clanga clanga,B,137
 Golden Eagle,,Aquila chrysaetos,AE,138
 Osprey,Western Osprey,Pandion haliaetus,AE,139
 Water Rail,,Rallus aquaticus,A,140
@@ -150,7 +150,7 @@ Purple Gallinule,,Porphyrio martinicus,A,148
 Coot,Eurasian Coot,Fulica atra,A,149
 American Coot,,Fulica americana,A,150
 Crane,Common Crane,Grus grus,A,151
-Sandhill Crane,,Grus canadensis,A,152
+Sandhill Crane,,Antigone canadensis,A,152
 Little Bustard,,Tetrax tetrax,A,153
 Macqueen's Bustard,,Chlamydotis macqueenii,A,154
 Great Bustard,,Otis tarda,AE,155
@@ -170,14 +170,14 @@ Little Ringed Plover,,Charadrius dubius,A,168
 Sociable Plover,Sociable Lapwing,Vanellus gregarius,A,169
 White-tailed Plover,White-tailed Lapwing,Vanellus leucurus,A,170
 Lapwing,Northern Lapwing,Vanellus vanellus,A,171
-Caspian Plover,,Anarhynchus asiaticus,A,172
-Greater Sand Plover,,Anarhynchus leschenaultii,A,173
-Lesser Sand Plover,,Anarhynchus mongolus,A,174
-Kentish Plover,,Anarhynchus alexandrinus,A,175
+Caspian Plover,,Charadrius asiaticus,A,172
+Greater Sand Plover,,Charadrius leschenaultii,A,173
+Lesser Sand Plover,,Charadrius mongolus,A,174
+Kentish Plover,,Charadrius alexandrinus,A,175
 Upland Sandpiper,,Bartramia longicauda,A,176
 Little Whimbrel,Little Curlew,Numenius minutus,A,177
 Eskimo Curlew,,Numenius borealis,B,178
-Hudsonian Whimbrel,Whimbrel,Numenius hudsonicus,A,179
+Hudsonian Whimbrel,Whimbrel,Numenius phaeopus hudsonicus,A,179
 Whimbrel,,Numenius phaeopus,A,180
 Curlew,Eurasian Curlew,Numenius arquata,A,181
 Black-tailed Godwit,,Limosa limosa,A,182
@@ -255,10 +255,10 @@ Caspian Tern,,Hydroprogne caspia,A,253
 Whiskered Tern,,Chlidonias hybrida,A,254
 Black Tern,,Chlidonias niger,A,255
 White-winged Black Tern,White-winged Tern,Chlidonias leucopterus,A,256
-Cabot's Tern,,Sterna acuflavida,A,257
-Sandwich Tern,,Sterna sandvicensis,A,258
-Royal Tern,,Sterna maxima,A,259
-Lesser Crested Tern,,Sterna bengalensis,A,260
+Cabot's Tern,,Thalasseus sandvicensis acuflavidus,A,257
+Sandwich Tern,,Thalasseus sandvicensis,A,258
+Royal Tern,,Thalasseus maximus,A,259
+Lesser Crested Tern,,Thalasseus bengalensis,A,260
 Forster's Tern,,Sterna forsteri,A,261
 Common Tern,,Sterna hirundo,A,262
 Roseate Tern,,Sterna dougallii,A,263
@@ -271,18 +271,18 @@ Bonaparte's Gull,,Chroicocephalus philadelphia,A,269
 Black-headed Gull,,Chroicocephalus ridibundus,A,270
 Little Gull,,Hydrocoloeus minutus,A,271
 Ross's Gull,,Rhodostethia rosea,A,272
-Laughing Gull,,Larus atricilla,A,273
-Franklin's Gull,,Larus pipixcan,A,274
-Mediterranean Gull,,Larus melanocephalus,A,275
-Audouin's Gull,,Larus audouinii,A,276
-Great Black-headed Gull,Pallas's Gull,Larus ichthyaetus,B,277
+Laughing Gull,,Leucophaeus atricilla,A,273
+Franklin's Gull,,Leucophaeus pipixcan,A,274
+Mediterranean Gull,,Ichthyaetus melanocephalus,A,275
+Audouin's Gull,,Ichthyaetus audouinii,A,276
+Great Black-headed Gull,Pallas's Gull,Ichthyaetus ichthyaetus,B,277
 Common Gull,Mew Gull,Larus canus,A,278
 Ring-billed Gull,,Larus delawarensis,A,279
 Lesser Black-backed Gull,,Larus fuscus,A,280
 Herring Gull,European Herring Gull,Larus argentatus,A,281
 Yellow-legged Gull,,Larus michahellis,A,282
 Caspian Gull,,Larus cachinnans,A,283
-American Herring Gull,American Herring Gull,Larus smithsonianus,A,284
+American Herring Gull,American Herring Gull,Larus argentatus smithsonianus,A,284
 Iceland Gull,Iceland Gull and Thayer's Gull,Larus glaucoides,A,285
 Slaty-backed Gull,,Larus schistisagus,A,286
 Glaucous-winged Gull,,Larus glaucescens,A,287
@@ -324,13 +324,13 @@ Hoopoe,Eurasian Hoopoe,Upupa epops,A,322
 Blue-cheeked Bee-eater,,Merops persicus,A,323
 Bee-eater,European Bee-eater,Merops apiaster,A,324
 Roller,European Roller,Coracias garrulus,A,325
-Kingfisher,Common Kingfisher,Alcedo atthis A,,326
+Kingfisher,Common Kingfisher,Alcedo atthis,A,326
 Belted Kingfisher,,Megaceryle alcyon,A,327
 Wryneck,Eurasian Wryneck,Jynx torquilla,A,328
 Green Woodpecker,European Green Woodpecker,Picus viridis,A,329
 Yellow-bellied Sapsucker,,Sphyrapicus varius,A,330
 Great Spotted Woodpecker,,Dendrocopos major,A,331
-Lesser Spotted Woodpecker,,Dryobates minor,A,332
+Lesser Spotted Woodpecker,,Dendrocopos minor,A,332
 Lesser Kestrel,,Falco naumanni,A,333
 Kestrel,Common Kestrel,Falco tinnunculus,A,334
 American Kestrel,,Falco sparverius,AE,335
@@ -374,7 +374,7 @@ Blue Tit,Eurasian Blue Tit,Cyanistes caeruleus,A,372
 Great Tit,,Parus major,A,373
 Crested Tit,European Crested Tit,Lophophanes cristatus,A,374
 Coal Tit,,Periparus ater,A,375
-Willow Tit,,Poecile montana,A,376
+Willow Tit,,Poecile montanus,A,376
 Marsh Tit,,Poecile palustris,A,377
 Bearded Tit,Bearded Reedling,Panurus biarmicus,A,378
 Woodlark,,Lullula arborea,A,379
@@ -418,7 +418,7 @@ Desert Warbler,Asian Desert Warbler,Sylvia nana,A,416
 Barred Warbler,,Sylvia nisoria,A,417
 Lesser Whitethroat,,Sylvia curruca,A,418
 Western Orphean Warbler,,Sylvia hortensis,A,419
-Rüppell's Warbler,,Sylvia rueppelli,A,420
+Rüppell's Warbler,,Sylvia ruppeli,A,420
 Sardinian Warbler,,Sylvia melanocephala,A,421
 Moltoni's Subalpine Warbler,Moltoni's Warbler,Sylvia subalpina,A,422
 Subalpine Warbler,Eastern & Western Subalpine Warblers,Sylvia cantillans,A,423
@@ -533,15 +533,15 @@ Water Pipit,,Anthus spinoletta,A,531
 Buff-bellied Pipit,,Anthus rubescens,A,532
 Brambling,,Fringilla montifringilla,A,533
 Chaffinch,Common Chaffinch,Fringilla coelebs,AE,534
-Evening Grosbeak,,Hesperiphona vespertina,A,535
+Evening Grosbeak,,Coccothraustes vespertinus,A,535
 Hawfinch,,Coccothraustes coccothraustes,A,536
-Common Rosefinch,,Erythrina erythrina,A,537
+Common Rosefinch,,Carpodacus erythrinus,A,537
 Pine Grosbeak,,Pinicola enucleator,AE,538
 Bullfinch,Eurasian Bullfinch,Pyrrhula pyrrhula,A,539
 Trumpeter Finch,,Bucanetes githagineus,AE,540
 Greenfinch,European Greenfinch,Chloris chloris,AE,541
-Linnet,Common Linnet,Linaria cannabina,A,542
-Twite,,Linaria flavirostris,A,543
+Linnet,Common Linnet,Carduelis cannabina,A,542
+Twite,,Carduelis flavirostris,A,543
 Lesser Redpoll,Common Redpoll,Acanthis cabaret,A,544
 Common Redpoll,,Acanthis flammea,A,545
 Arctic Redpoll,,Acanthis hornemanni,A,546
@@ -550,7 +550,7 @@ Crossbill,Red Crossbill,Loxia curvirostra,A,548
 Scottish Crossbill,,Loxia scotica,A,549
 Parrot Crossbill,,Loxia pytyopsittacus,A,550
 Goldfinch,European Goldfinch,Carduelis carduelis,A,551
-Citril Finch,,Carduelis citrinella,A,552
+Citril Finch,,Serinus citrinella,A,552
 Serin,European Serin,Serinus serinus,A,553
 Siskin,Eurasian Siskin,Spinus spinus,A,554
 Snow Bunting,,Plectrophenax nivalis,A,555
